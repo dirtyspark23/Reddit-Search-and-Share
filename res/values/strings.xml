@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search and Share</string>
+    <string name="search_hint">Search Subreddits</string>
+    <string name="search_views_content">SearchView allows you provide a unified mechanism of searching with optional featurs such as auto-completion and an always-expanded mode.</string>
+    <string name="alert">We seem to be having problems pulling your topic. \nPlease try another.</string>
+    <string name="okay">Okay</string>
+    <string name="no_subreddit">No Subreddit Found</string>
+</resources>
